@@ -5,7 +5,7 @@ export const portfolio = {
     phone: "+91 9890359008",
     email: "surajnarule.tech@gmail.com",
     stats: [
-        { label: "Years of Experience", value: "3+" },
+        { label: "Years of Experience", value: "4+" },
         { label: "Production Projects", value: "5+" },
         { label: "Payment Integrations", value: "Computop" },
         { label: "Domains", value: "Travel & Hospitality" },
@@ -16,7 +16,7 @@ export const portfolio = {
     },
 
     summary:
-        "Senior Full Stack Engineer with 3+ years of experience designing and scaling multi-tenant B2B and B2C platforms in the travel-tech and booking domain. Strong ownership of frontend and backend systems including payment microservices, admin-driven platforms, and white-label solutions. Experienced in building reliable booking and payment flows used by multiple clients across regions.",
+        "Senior Full Stack Engineer with 4+ years of experience designing and scaling multi-tenant B2B and B2C platforms in the travel-tech and booking domain. Strong ownership of frontend and backend systems including payment microservices, admin-driven platforms, and white-label solutions. Experienced in building reliable booking and payment flows used by multiple clients across regions.",
 
     skills: {
         languages: ["JavaScript", "TypeScript", "SQL", "C#"],
